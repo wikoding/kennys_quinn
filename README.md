@@ -24,7 +24,7 @@ So I developed this addon for my own workflow and now share it as a free public 
 ---
 
 ## Installation
-1. Download the latest release from the [Releases](../../releases) page.  
+1. Download the latest release from the [Gumroad – Kenny's Quinn Alpha](https://wikoding.gumroad.com/l/kennys_quinn_alpha) page.  
 2. In Blender, go to **Edit → Preferences → Add-ons → Install...**  
 3. Select the `.zip` file and enable the addon.  
 
